@@ -1,5 +1,6 @@
+sklearn
 streamlit
 numpy
 pandas
 scipy
-sklearn
+
