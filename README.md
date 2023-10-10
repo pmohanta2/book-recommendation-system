@@ -40,12 +40,13 @@ streamlit run app.py
 
 ## Dependencies
 
-- Python
-- Pandas
-- NumPy
-- SciPy
-- Scikit-learn
-- Streamlit
+* [![Python][python]][Python-url]
+* [![Pandas][pandas]][Pandas-url]
+* [![NumPy][numpy]][NumPy-url]
+* [![SciPy][scipy]][SciPy-url]
+* [![Scikit-learn][scikit-learn]][Scikit-learn-url]
+* [![Streamlit][Streamlit.io]][Streamlit-url]
+
 
 
 ## Dataset
@@ -61,3 +62,21 @@ This project is for educational purposes and is based on the collaborative filte
 Prabin
 
 Feel free to explore and modify the code to suit your needs. Enjoy recommending and discovering new books!
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[python]:https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow
+[Python-url]:https://www.python.org/
+[pandas]:https://img.shields.io/badge/Pandas-green?logo=pandas&logoColor=black
+[Pandas-url]:https://pandas.pydata.org/
+[numpy]: https://img.shields.io/badge/NumPy-violet?logo=numpy&logoColor=black
+[NumPy-url]:https://numpy.org/
+[scipy]:https://img.shields.io/badge/SciPy-lavender?logo=scipy&logoColor=black
+[SciPy-url]:https://www.scipy.org/
+[scikit-learn]:https://img.shields.io/badge/Scikit--learn-cyan?logo=scikitlearn&logoColor=black
+[Scikit-learn-url]:https://scikit-learn.org/stable/index.html
+[Streamlit.io]:https://img.shields.io/badge/Streamlit-DD0031?logo=streamlit&logoColor=black
+[Streamlit-url]:https://streamlit.io/
