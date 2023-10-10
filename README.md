@@ -40,12 +40,13 @@ streamlit run app.py
 
 ## Dependencies
 
-• Python
-• Pandas
-• NumPy
-• SciPy
-• Scikit-learn
-• Streamlit
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Scikit-learn
+- Streamlit
+
 
 ## Dataset
 
