@@ -27,27 +27,3 @@ This project is built using Python and popular data science libraries. It provid
 
 ```bash
 streamlit run app.py
-'''
-
-## Dependencies
-
-Python
-Pandas
-NumPy
-SciPy
-Scikit-learn
-Streamlit
-
-## Dataset
-
-The project uses the [Book Recommendation Dataset](https://www.kaggle.com/arashnic/book-recommendation-dataset) available on Kaggle. You can download the dataset from the provided link.
-
-## Acknowledgments
-
-This project is for educational purposes and is based on the collaborative filtering concept for book recommendations.
-
-## Author
-
-Prabin
-
-Feel free to explore and modify the code to suit your needs. Enjoy recommending and discovering new books!
