@@ -8,7 +8,6 @@ This is a simple book recommendation system project that utilizes collaborative 
 
 This project is built using Python and popular data science libraries. It provides recommendations for books based on user preferences and interactions. The system uses a Nearest Neighbors model for recommendation.
 
-
 ## Project Files
 
 - `Book recommendation system.ipynb`: Jupyter Notebook containing the code for the recommendation system.
@@ -26,22 +25,5 @@ This project is built using Python and popular data science libraries. It provid
 2. Install the required Python packages listed in `requirements.txt`.
 3. Run the Streamlit app using the following command:
 
-...
-
-## Dependencies
-
-...
-
-## Dataset
-
-...
-
-## Acknowledgments
-
-...
-
-## Author
-
-[Your Name]
-
-Feel free to explore and modify the code to suit your needs. Enjoy recommending and discovering new books!
+```bash
+streamlit run app.py
