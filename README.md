@@ -27,6 +27,7 @@ This project is built using Python and popular data science libraries. It provid
 
 ```bash
 streamlit run app.py
+'''
 
 ## Dependencies
 
