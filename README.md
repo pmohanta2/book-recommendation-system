@@ -31,8 +31,18 @@ This project is built using Python and popular data science libraries. It provid
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Install the required Python packages listed in `requirements.txt`.
-3. Run the Streamlit app using the following command:
+   
+   ```bash
+   git clone https://github.com/yourusername/book-recommendation-system.git
+   cd book-recommendation-system
+   ```
+3. Install the required Python packages listed in `requirements.txt`.
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+  
+5. Run the Streamlit app using the following command:
 
 ```bash
 streamlit run app.py
