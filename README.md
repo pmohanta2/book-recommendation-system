@@ -6,7 +6,8 @@ This is a simple book recommendation system project that utilizes collaborative 
 
 ## Project Overview
 
-...
+This project is built using Python and popular data science libraries. It provides recommendations for books based on user preferences and interactions. The system uses a Nearest Neighbors model for recommendation.
+
 
 ## Project Files
 
