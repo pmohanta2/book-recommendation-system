@@ -4,6 +4,15 @@ This is a simple book recommendation system project that utilizes collaborative 
 
 **Deployed Link**: [https://book-recommendation-system02.streamlit.app/](https://book-recommendation-system02.streamlit.app/)
 
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [How to Use](#how-to-use)
+3. [Dependencies](#dependencies)
+4. [Dataset](#dataset)
+5. [Acknowledgments](#acknowledgments)
+6. [Author](#author)
+
 ## Project Overview
 
 This project is built using Python and popular data science libraries. It provides recommendations for books based on user preferences and interactions. The system uses a Nearest Neighbors model for recommendation.
