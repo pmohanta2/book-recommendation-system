@@ -44,9 +44,9 @@ This project is built using Python and popular data science libraries. It provid
   
 3. Run the Streamlit app using the following command:
 
-```bash
-streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Dependencies
 
