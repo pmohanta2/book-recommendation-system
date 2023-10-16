@@ -3,7 +3,7 @@
 This is a simple book recommendation system project that utilizes collaborative filtering to recommend books to users. It uses the [Book Recommendation Dataset](https://www.kaggle.com/arashnic/book-recommendation-dataset) from Kaggle.
 
 **Deployed Link**: [https://book-recommendation-system02.streamlit.app/](https://book-recommendation-system02.streamlit.app/)
-![Deployed](https://drive.google.com/file/d/1UdFdxt1fBgXpblZKjbsMbwjtdekD2Xym/view?usp=sharing)
+![Deployed](images/deploy.png)
 
 
 # Table of Contents
