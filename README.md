@@ -4,6 +4,8 @@ This is a simple book recommendation system project that utilizes collaborative 
 
 **Deployed Link**: [https://book-recommendation-system02.streamlit.app/](https://book-recommendation-system02.streamlit.app/)
 ![Deployed](images/deploy.png)
+![example](images/recommend.png)
+
 
 
 # Table of Contents
