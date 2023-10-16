@@ -23,7 +23,6 @@ This project is built using Python and popular data science libraries. It provid
 - `app.py`: Python script for a Streamlit web application for interactively recommending books.
 - `requirements.txt`: Lists the Python packages required to run the application.
 - `setup.sh`: A shell script for configuring Streamlit and deploying the app.
-- `Procfile`: A file for Heroku deployment configuration.
 - `final_model.sav`: A file containing the trained recommendation model.
 - `final_rating.csv`: A CSV file containing preprocessed book ratings data.
 - `dataset/dataset_links.txt`: A text file containing the link to the Book Recommendation Dataset.
